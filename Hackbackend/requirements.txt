@@ -1,0 +1,12 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.7.0
+pydantic-settings>=2.2.0
+python-dotenv>=1.0.0
+sqlalchemy>=2.0.0
+pymysql>=1.1.0
+cryptography>=42.0.0
+hindsight-client>=0.10.0
+httpx>=0.27.0
+pytest>=8.0.0
+google-genai>=0.1.0
